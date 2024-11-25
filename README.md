@@ -1,4 +1,4 @@
---Multi-VM Vagrant Configuration--
+--Multi-VM Vagrant Configuration-- \
 This repository contains a Vagrantfile for setting up and managing a multi-VM environment using Vagrant. It includes configurations for three virtual machines:
   ->Web01: Ubuntu 20.04-based VM configured as a web server.
   ->Web02: Ubuntu 20.04-based VM configured as a secondary web server.
